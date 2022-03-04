@@ -1,0 +1,1012 @@
+@media (max-width: 650px) {
+
+
+    #coming_soon_meta{
+        min-height: 100vh;
+        width: 100%;
+        /* background-color: #E5E5E5; */
+        background-image: none; /* The image used */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+        padding: 3rem 2rem;
+    }
+    
+    .coming-soon-logo{
+        width: 6rem;
+    }
+    
+    #coming_soon_meta p{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+    margin-top: 13vh;
+    color: #594EFF;
+    }
+    
+    #coming_soon_meta h1{
+        font-family: 'LufgaBold', serif;
+        font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 64px;
+    color: #020607;
+    }
+    
+    #coming_soon_meta h2{
+        font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 31px;
+    color: #111111;
+    margin-top: 10vh;
+    }
+    
+    .email_div{
+        max-width: 100%;
+        width: 100%;
+        margin-top: 5vh;
+    }
+    
+    .email_div input{
+        width: 70%;
+    background: #FFFFFF;
+    box-shadow: 5px 10px 25px #B9DBED;
+    border-radius: 10px;
+    height: 45px;
+    border: none;
+    padding: 0.5rem;
+    margin-right: 2%;
+    }
+    
+    .email_div button{
+        width: 28%;
+        background: linear-gradient(88.49deg, #3F8CFF 6.54%, #3FD1FF 100%);
+    box-shadow: 3px 7px 13px #D4E1F8;
+    border-radius: 10px;
+    color: #ffffff;
+    height: 45px;
+    border: none;
+    }
+
+
+
+    #coming_soon_nft{
+        background-image: none; /* The image used */
+        padding: 3rem 2rem 3rem 2rem;
+    }
+
+    #coming_soon_nft .email_div{
+        max-width: 100%;
+        width: 100%;
+        margin-top: 5vh;
+    }
+
+
+
+
+
+    #nav-logo{
+        display: none;
+    }
+
+
+    
+#main-banner{
+    padding: 13vh 2rem 2rem 2rem;
+    }
+    
+    .banner-inner{
+        display: block;
+    }
+    
+    .banner-inner .left{
+        width:100%;
+        display: block;
+    }
+    
+    .banner-inner .right{
+        width: 100%;
+        display: block;
+    }
+    
+    .banner-inner .left p{
+        width: auto;
+    }
+    
+    
+    
+    #main-banner .img-div{
+        width:60%;
+    }
+    
+    #main-banner .text-div{
+        width: 40%;
+    }
+    
+    
+    #main-banner .main-img{
+        position: relative;
+        right: -10%;
+        width: 100%;
+        bottom: 0%;
+    }
+    
+    
+    #polygon{
+        padding: 5rem 2rem 5rem 2rem;
+    }
+    
+    .polygon-inner{
+        display: block;
+    }
+    
+    .polygon-inner .left{
+        width:100%;
+    }
+    
+    .polygon-inner .right{
+        width: 100%;
+    }
+    
+    .polygon-inner .right p{
+        width: auto;
+    }
+    
+    .nft-img{
+        width: 100%;
+      margin-top: -30%;
+      margin-left: -20%;
+    }
+    
+    
+    
+    #nft{
+    padding: 3rem 2rem 5rem 2rem;
+    }
+    
+    .nft-inner{
+        display: block;
+    }
+    
+    .nft-inner .left{
+        width:100%;
+        padding-left: 0px;
+        padding-top: 5rem;
+    }
+    
+    .nft-inner .right{
+        width: 100%;
+    }
+    
+    
+    .nft-inner .left h1{
+        margin-top: 0rem;
+    }
+    
+    
+    .floating{
+        display: block;
+    }
+    
+    
+    .floating .floating-left{
+        width: 100%;
+    }
+    
+    .floating .floating-right{
+        width: 100%;
+    }
+    
+    .first-card{
+        margin-top: 3rem;
+    }
+    
+    
+    .card{
+        width:90%;
+    }
+    
+    
+    #metaverse{
+        padding: 5rem 2rem 5rem 2rem;
+    }
+    
+    .metaverse-inner{
+        display: block;
+    }
+    
+    .metaverse-inner .left{
+        width:100%;
+    }
+    
+    .metaverse-inner .right{
+        width: 100%;
+    }
+    
+    .meta-img{
+        width: 100%;
+      margin-top: 4rem;
+      margin-left: -2rem;
+    }
+    
+    
+    footer{
+        padding: 2rem 2rem 3rem 2rem;
+    }
+    
+    .footer-inner{
+        display: block;
+    }
+    
+    
+    footer p{
+        max-width: 50ch !important;
+    }
+    
+    .footer-desc{
+        width: 100%;
+    }
+    
+    .footer-links{
+        width: 100%;
+    }
+    
+    
+    
+    #resources{
+        padding: 4rem 2rem 4rem 2rem;
+    }
+    
+    .resources-inner{
+        display: block;
+    }
+    
+    
+    .resources-inner .left{
+        width: 100%;
+    }
+    
+    .resources-inner .right{
+        width: 100%;
+    }
+    
+    
+    .mobile-card{
+    margin-top: 1rem;
+    }
+    
+    
+    .resource-card-inner h2{
+        font-size: 1.2rem;
+    }
+    
+    
+    .resource-card-inner h2 span{
+        font-size: 2.5rem;
+    }
+    
+    
+    .download-btn{
+        min-width: 100%;
+    }
+    
+    .learn-btn{
+        min-width: 100%;
+        margin-top: 1rem;
+    }
+    
+    
+    
+    .learn-btn-2{
+       min-width: 90%;
+       margin-left: 1rem;
+    }
+    
+    
+    .road-img{
+        width:125%;
+      display: block;
+      margin-bottom: -7rem;
+      margin-left: -1rem;
+    }
+    
+    
+    .style_element{
+        margin-left: -1rem;
+        padding: 1.8rem 1rem 1.8rem 1rem;
+    
+    }
+    
+    
+    
+     }
+
+
+
+
+
+     
+ 
+ 
+  @media (max-width: 900px)  /*-----------IPADS--------------*/
+  and (min-width: 700px){
+
+
+#main-banner{
+padding: 13vh 4rem 2rem 4rem;
+min-height: 70vh;
+}
+
+.banner-inner{
+    display: block;
+}
+
+.banner-inner .left{
+    width:100%;
+    display: block;
+}
+
+.banner-inner .right{
+    width: 100%;
+    display: block;
+}
+
+.banner-inner .left p{
+    width: auto;
+}
+
+
+
+#main-banner .img-div{
+    width:30%;
+}
+
+#main-banner .text-div{
+    width: 40%;
+}
+
+
+#main-banner .main-img{
+    position: relative;
+    right: -10%;
+    width: 100%;
+    bottom: 0%;
+}
+
+
+#polygon{
+    padding: 5rem 4rem 5rem 4rem;
+}
+
+.polygon-inner{
+    display: block;
+}
+
+.polygon-inner .left{
+    width:100%;
+}
+
+.polygon-inner .right{
+    width: 100%;
+}
+
+.polygon-inner .right p{
+    width: auto;
+}
+
+.nft-img{
+    width: 100%;
+  margin-top: -20%;
+  margin-left: -20%;
+}
+
+
+
+#nft{
+padding: 5rem 4rem 5rem 4rem;
+}
+
+.nft-inner{
+    display: block;
+}
+
+.nft-inner .left{
+    width:100%;
+    padding-left: 0px;
+    padding-top: 4rem;
+}
+
+.nft-inner .right{
+    width: 100%;
+}
+
+
+.nft-inner .left h1{
+    margin-top: 0rem;
+}
+
+
+.floating{
+    display: block;
+}
+
+
+.floating .floating-left{
+    width: 100%;
+    display: flex;
+}
+
+.floating .floating-right{
+    width: 100%;
+}
+
+.first-card{
+    margin-top: 3rem;
+}
+
+
+.card{
+    width:45%;
+    margin: 0 auto;
+}
+
+.flex-div{
+ display: flex;
+}
+
+.sup_div{
+    margin-top: 2rem;
+}
+
+
+#metaverse{
+    padding: 5rem 4rem 3rem 4rem;
+}
+
+.metaverse-inner{
+    display: block;
+}
+
+.metaverse-inner .left{
+    width:100%;
+}
+
+.metaverse-inner .right{
+    width: 100%;
+}
+
+.meta-img{
+    width: 80%;
+  margin-top: 15%;
+}
+
+
+footer{
+    padding: 2rem 2rem 3rem 2rem;
+}
+
+.footer-inner{
+    display: block;
+}
+
+
+footer p{
+    max-width: 50ch !important;
+}
+
+.footer-desc{
+    width: 100%;
+}
+
+.footer-links{
+    width: 100%;
+}
+
+
+
+#resources{
+    padding: 5rem 4rem 5rem 4rem;
+}
+
+.resources-inner{
+    display: flex;
+}
+
+
+.resources-inner .left{
+    width: 50%;
+}
+
+.resources-inner .right{
+    width: 50%;
+    margin-top: 15%;
+}
+
+
+.mobile-card{
+margin-top: 1rem;
+}
+
+
+.resource-card-inner h2{
+    font-size: 1.2rem;
+}
+
+
+.resource-card-inner h2 span{
+    font-size: 2.5rem;
+}
+
+
+.download-btn{
+    min-width: 100%;
+}
+
+.learn-btn{
+    min-width: 100%;
+    margin-top: 1rem;
+}
+
+
+
+.learn-btn-2{
+   min-width: 90%;
+   margin-left: 1rem;
+}
+
+
+.road-img{
+    width:125%;
+  display: block;
+  margin-bottom: -7rem;
+  margin-left: -1rem;
+}
+
+
+.style_element{
+    margin-left: -1rem;
+	padding: 2rem 1rem 2rem 2rem;
+
+}
+
+
+#team {
+    width: 100%;
+    padding: 5rem 4rem 5rem 4rem;
+}
+
+.team-inner .left .team-member {
+    width: 33%;
+}
+
+
+.team-inner2 .team-member {
+    max-width: 33%;
+}
+
+
+ }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      @media (max-width: 1120px)  /*-----------13/10 inch laptop--------------*/
+      and (min-width: 900px){
+
+
+
+        #coming_soon_meta{
+            padding: 3rem 6rem;
+        }
+        
+        .coming-soon-logo{
+            width: 5rem;
+        }
+        
+        #coming_soon_meta p{
+        font-size: 22px;
+        }
+        
+        #coming_soon_meta h1{
+        font-size: 62px;
+        }
+        
+        #coming_soon_meta h2{
+        font-size: 22px;
+        }
+
+        
+        #coming_soon_nft{
+            padding: 3rem 0rem 3rem 40vw;
+        }
+        
+        .coming-soon-logo{
+            width: 5rem;
+        }
+        
+        #coming_soon_nft p{
+        font-size: 22px;
+        }
+        
+        #coming_soon_nft h1{
+        font-size: 62px;
+        }
+        
+        #coming_soon_nft h2{
+        font-size: 22px;
+        }
+
+        #coming_soon_nft .email_div{
+            max-width: 70%;
+            width: 60%;
+            margin-top: 5vh;
+        }
+    
+    
+
+
+
+        #navbar-primary .navbar-nav {
+            gap: 0em;
+        }
+
+        #navbar-primary .navbar-nav li {
+            padding: 5px 0px;
+        }
+
+        #navbar-primary .navbar-nav li a {
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size: 0.8rem;
+        }    
+
+        .wallet-section span {
+            font-size: 0.8rem;
+        }
+       
+      #main-banner{
+    padding: 8vh 6rem 2rem 6rem;
+    }
+    
+    #main-banner .img-div{
+        width:50%;
+    }
+    
+    #main-banner .text-div{
+        width: 50%;
+    }
+    
+    
+    .banner-inner .right h1{
+        font-size: 1.4rem;
+    }
+    
+    .banner-inner .right h1 span{
+        font-size: 3rem;
+    }
+    
+    .banner-inner .right p{
+        font-size: 1rem;
+    }
+    
+    
+    
+      #polygon{
+    padding: 3rem 6rem 2rem 6rem;
+    }
+    
+    
+    
+    .nft-img{
+        width: 100%;
+      margin-top: -10%;
+      margin-left: -10%;
+    }
+    
+    
+    #nft{
+    padding: 6rem 6rem 3rem 6rem;
+    }
+    
+    .card{
+        width:90%;
+    }
+    
+    
+    .card .nft-pic{
+        height: 7rem;
+    }
+    
+    
+    .sup-cur-img{
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    
+    
+    #metaverse{
+        padding: 6rem 6rem 3rem 6rem;
+    }
+    
+    
+    .meta-img{
+        width: 90%;
+      margin-top: -0%;
+    }
+    
+    footer{
+        padding: 2rem 6rem 4rem 6rem;
+    }
+    
+    footer h2{
+        font-size: 1.2rem;
+        margin-top: 2rem;
+    }
+    
+    .footer-logo{
+        margin-top: 1rem;
+    }
+    
+    #resources{
+        padding: 4rem 6rem 4rem 6rem;
+    }
+
+
+}
+ 
+ 
+
+
+
+
+  @media (max-width: 1930px)  /*-----------23/24 inch laptop--------------*/
+  and (min-width: 1820px){
+
+
+  #main-banner{
+padding: 20vh 14rem 3rem 14rem;
+}
+
+
+.banner-inner .right h1{
+    font-size: 2.4rem;
+    line-height: 3.4rem;
+}
+
+.banner-inner .right h1 span{
+    font-size: 4.8rem;
+}
+
+
+
+#main-banner .small-img{
+    border: 4px solid #E5E5E5;
+    border-radius: 50%;
+    width: 65px;
+}
+
+#main-banner .img-div{
+    width:35%;
+}
+
+#main-banner .text-div{
+    width: 65%;
+}
+
+
+#main-banner .main-img{
+
+    width: 50%;
+    top: -5%;
+}
+
+
+
+.blue-btn{
+    height: 54px;
+}
+
+.grey-btn{
+    height: 54px;
+}
+
+.download-btn{
+    height: 54px;
+}
+
+
+.learn-btn{
+    height: 54px;
+}
+
+.learn-btn-2{
+    height: 54px;
+}
+
+
+
+
+  #polygon{
+padding: 5rem 14rem 4rem 14rem;
+}
+
+.polygon-inner .right h1{
+    font-size: 2.4rem;
+    line-height: 3.4rem;
+}
+
+.polygon-inner .right h1 span{
+    font-size: 3.8rem;
+}
+
+
+
+#nft{
+padding: 4rem 14rem 3rem 14rem;
+}
+
+.nft-inner .left h1{
+    font-size: 2.4rem;
+    line-height: 3.4rem;
+}
+
+.nft-inner .left h1 span{
+    font-size: 3.8rem;
+}
+
+
+.card-top{
+background:#ffffff;
+padding: 1rem 1rem 1.2rem 1rem;
+}
+
+.card .nft-pic{
+    height: 10rem;
+    margin-top: -3rem;
+}
+
+.profile{
+    margin-top: 0.8rem;
+    padding: 0.8rem;
+}
+
+
+.profile-img{
+    width:50px;
+    height:50px;
+    margin-right: 0.8rem;
+}
+
+.p_name{
+    font-size:1.2rem;
+}
+
+.p_name span{ 
+font-size:0.9rem
+}
+
+.p_desc{
+    margin-top: 0.4rem;
+    font-size: 0.9rem;
+}
+
+.card-bottom{
+    padding: 1.2rem;
+}
+
+
+.p_current{
+    font-size: 0.6rem;
+}
+
+.p_eth{
+    font-size:1.2rem;
+}
+
+
+.p_eth img{
+    width:1.2rem;
+    margin-right: 0.3rem;
+    margin-top: 0.8rem;
+}
+
+.p_price{
+    font-size:0.9rem;
+}
+
+.p_price img{
+width:1.2rem;
+}
+
+
+.p_time{
+    font-size:1.2rem;
+    margin-top: 0.8rem;
+}
+
+.p_timestamp{
+    font-size:0.6rem;
+    font-weight: bold;
+    color: #3F8CFF;
+    margin-top: 0.6rem;
+}
+
+
+
+.sup_div{
+    padding: 1.2rem 1.2rem 0.8rem 1.2rem;
+    margin-top: 1.2rem;
+}
+
+.sup_div p{
+    font-size: 1rem;
+}
+
+
+.sup-cur-img{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+
+#metaverse{
+    padding: 6rem 14rem 3rem 14rem;
+}
+
+.metaverse-inner .right h1{
+    font-size: 2.4rem;
+    line-height: 3.4rem;
+}
+
+.metaverse-inner .right h1 span{
+    font-size: 3.8rem;
+}
+
+
+
+
+.meta-img{
+  width: 70%;
+  margin-top: -0%;
+}
+
+
+footer{
+    padding: 2rem 14rem 4rem 14rem;
+}
+
+
+footer h2{
+    font-size: 1.7rem;
+}
+
+
+
+  #resources{
+padding: 5rem 14rem 5rem 14rem;
+}
+
+
+.resources-inner .left h1{
+    font-size: 2.4rem;
+    line-height: 3.4rem;
+}
+
+.resources-inner .left h1 span{
+    font-size: 3.8rem;
+}
+
+
+.style_element{
+	padding: 2.8vw 2vw 2.8vw 4vw;
+}
+
+
+
+  }  

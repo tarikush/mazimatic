@@ -1,0 +1,139 @@
+/* html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+} */
+
+
+img.bottomLeftImage {
+  position: absolute;
+  width: 320px;
+  margin-top: 230px;
+  margin-left: 300px;
+}
+
+
+img.backgroundImage {
+  position: absolute;
+  margin-left: 320px;
+}
+
+img.topLeftImage {
+  margin-top: 90px;
+  position: absolute;
+}
+
+.up-down{
+  -webkit-animation:  up-down 1s infinite  alternate;
+  animation:  up-down 1s infinite  alternate;
+}
+
+@keyframes up-down{
+  0% { transform: translateY(0); }
+  
+  100% { transform: translateY(-25px);}
+}
+
+@-moz-keyframes up-down{
+  0% { transform: translateY(0); }
+  
+  100% { transform: translateY(-25px);}
+}
+
+@-webkit-keyframes up-down {
+  0% { transform: translateY(0); }
+  
+  100% { transform: translateY(-25px);}
+}
+
+@-o-keyframes up-down {
+  0% { transform: translateY(0); }
+  
+  100% { transform: translateY(-25px);}
+}
+
+@-ms-keyframes up-down {
+  0% { transform: translateY(0); }
+  
+  100% { transform: translateY(-25px);}
+}
+
+
+
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+  margin-top:80px;
+}
+
+
+
+
+li#nftkart a {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+li#buy-token a {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  min-height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0;
+  z-index:-2;
+  transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+    -moz-transform:rotateY(180deg); /* Firefox */
+}
+
+a#google_translate_element img {
+  display: none;
+}
+.goog-te-gadget-simple {
+  font-family: 'LufgaLight', serif;
+  font-size: 0.9rem;
+  border: 1px solid #C5DAED;
+  margin-top: 20px;
+  border-radius: 10px!important;
+  padding: 10px;
+  background-color: transparent;
+  /* border-left: 1px solid #d5d5d5; */
+  /* border-top: 1px solid #9b9b9b; */
+  /* border-bottom: 1px solid #e8e8e8; */
+  /* border-right: 1px solid #d5d5d5; */
+  /* font-size: 10pt; */
+  display: inline-block;
+  /* padding-top: 1px; */
+  /* padding-bottom: 2px; */
+  cursor: pointer;
+  zoom: 1;
+  *display: inline;
+}
+.goog-te-gadget-simple .goog-te-menu-value span {
+  border: none;
+  height: 60px;
+  text-decoration: none;
+}
+body { top: 0px !important; }
+.goog-te-banner-frame {
+  display: none;
+  height:0px!important;
+}
